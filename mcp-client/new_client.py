@@ -12,7 +12,7 @@ mcp_client = MCPClient(
 tools=mcp_client.get_tools()
 
 
-model = InferenceClientModel(token="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")
+model = InferenceClientModel(token="")
 agent = CodeAgent(tools=[*tools], model=model)
 
 
