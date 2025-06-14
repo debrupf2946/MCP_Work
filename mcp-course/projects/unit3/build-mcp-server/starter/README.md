@@ -4,7 +4,7 @@ Welcome to Module 1! In this module, you'll build a basic MCP server that helps 
 
 ## Your Task
 
-Implement an MCP server with three tools:
+Implement an MCP server with three t:
 
 1. **analyze_file_changes** - Retrieve git diff information and changed files
 2. **get_pr_templates** - List available PR templates 
